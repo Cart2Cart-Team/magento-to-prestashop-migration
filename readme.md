@@ -1,6 +1,6 @@
 # Magento to PrestaShop
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [Magento to PrestaShop](https://www.shopping-cart-migration.com/shopping-cart-migration-options/189-magento-to-prestashop-migration) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your Magento store entities, including products, orders, customers, etc. to PrestaShop in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [Magento to PrestaShop](https://www.shopping-cart-migration.com/shopping-cart-migration-options/189-magento-to-prestashop-migration?utm_source=github-articles&utm_medium=articles&utm_term=magento-prestashop&utm_campaign=github.com) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Magento store. Thus, you’ll be able to move your Magento store entities, including products, orders, customers, etc. to PrestaShop in a totally automated way.
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from Magento to PrestaShop:
 * **_Products_** (ID, Name, SKU, Short Description, Full Description, Manufacturer, Tax Class, Sort Order in Category, Price, Special Price, Special Price From-To Date, Tier Price, URL, Meta Title, Meta Keywords, Meta Description, Weight, Attributes, Downloadable Products, Variants, Base Image, Additional Images, Quantity, Stock Status, Backorder);
@@ -13,7 +13,7 @@ Cart2Cart will assist you in moving the following data entities from Magento to 
 * **_Reviews_** (Created Date, Status, Rate, User Name, Comment, Product, Title);
 * **_Multistore_**.
  
-To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/189-magento-to-prestashop-migration).
+To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/189-magento-to-prestashop-migration?utm_source=github-articles&utm_medium=articles&utm_term=magento-prestashop&utm_campaign=github.com).
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
 * _Clear current data on Target Store before Migration,_
@@ -32,8 +32,10 @@ Users have the ability to choose some of the extra migration options to make the
 * **Choose data entities & extra migration options.** Select some of the data types or move all the store’s data to the desired platform. Also, take advantage of the additional migration options to ease the switching process.
 * **Start Free Demo** to see how your Magento store will look on the PrestaShop platform. You can move a limited number of data entities just within 30 minutes.  
 * **Launch the Full migration** of your store from Magento to PrestaShop.
+
+Watch our [video tutorial](https://youtu.be/wOIY-pxeIBs?utm_source=github-articles&utm_medium=articles&utm_term=magento-prestashop&utm_campaign=github.com) to see how easy it is to automatically migrate from Magento to PrestaShop with the help of the Cart2Cart migration tool.
  
-Check the detailed [guide on Magento to PrestaShop migration](https://www.shopping-cart-migration.com/carts-reviews/prestashop/16343-everything-is-under-control-magento-to-prestashop-migration-tips). 
+Check the detailed [guide on Magento to PrestaShop migration](https://www.shopping-cart-migration.com/carts-reviews/prestashop/16343-everything-is-under-control-magento-to-prestashop-migration-tips?utm_source=github-articles&utm_medium=articles&utm_term=magento-prestashop&utm_campaign=github.com). 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
 * **No store’s downtime.** Your Magento store will remain active during the replatforming process.
@@ -41,4 +43,4 @@ Check the detailed [guide on Magento to PrestaShop migration](https://www.shoppi
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to PrestaShop and the additional options you select.   
 * **Free demo available.** Move a limited number of data from Magento to PrestaShop just within 30 minutes. No risk involved, no credit card required. 
-* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/16-prestashop)** that provides customers with the answers to the most common questions concerning PrestaShop migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/16-prestashop?utm_source=github-articles&utm_medium=articles&utm_term=magento-prestashop&utm_campaign=github.com)** that provides customers with the answers to the most common questions concerning PrestaShop migration.
